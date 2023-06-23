@@ -47,32 +47,32 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,docker,figma,github,html,nodejs,Ruby,Ruby on Rails,JavaScript,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,docker,figma,github,html,nodejs,Ruby,Ruby on Rails,JavaScript,SQL,vscode&perline=14" />
   </a>
 </p>
 
 💾 Fundamentals and Databases:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Terminal,Ruby,SQL,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=Ruby,terminal,SQL,vscode&perline=14" />
    </a>
    
  📋 Front-end & Web Design:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=CSS3,HTML5,JavaScript,Webpack&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,html,JavaScript,Webpack&perline=14" />
    </a>
    
  ☁️ Deploy:
 
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=Heroku,Ruby on Rails&perline=14" />
+     <img src="https://skillicons.dev/icons?i=heroku,Ruby on Rails&perline=14" />
   </a>
   
  ♾️ Development Workflow:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?iGit,GitHub,Figma&perline=14" />
+    <img src="https://skillicons.dev/icons?git,GitHub,figma&perline=14" />
    </a>
 
    
