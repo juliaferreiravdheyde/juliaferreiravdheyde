@@ -51,21 +51,21 @@
   </a>
 </p>
 
-💾 Fundamentals and Databases:
+<h2 "💾 Fundamentals and Databases:" />
 
-Terminal VS Code Ruby SQL
+  <img src="https://skillicons.dev/icons?i=Terminal,Ruby,SQL,vscode&perline=14" />
 
-📋 Front-end & Web Design:
+<h2 "📋 Front-end & Web Design:" />
 
-CSS3 HTML5 JavaScript Webpack
+  <img src="https://skillicons.dev/icons?i=CSS3,HTML5,JavaScript,Webpack&perline=14" />
 
-☁️ Deploy:
+<h2 "☁️ Deploy:" />
 
-Heroku Ruby on Rails
+   <img src="https://skillicons.dev/icons?i=Heroku,Ruby on Rails&perline=14" />
 
-♾️ Development Workflow:
+<h2 "♾️ Development Workflow:" />
 
-Git GitHub Figma
+  <img src="https://skillicons.dev/icons?iGit,GitHub,Figma&perline=14" />
 
 Credit: 1010nishant
 
