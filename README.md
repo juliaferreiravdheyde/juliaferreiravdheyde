@@ -54,13 +54,13 @@
 💾 Fundamentals and Databases:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Ruby,terminal,SQL,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ruby,terminal,sql,vscode&perline=14" />
    </a>
    
  📋 Front-end & Web Design:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,JavaScript,Webpack&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,html,JavaScript&perline=14" />
    </a>
    
  ☁️ Deploy:
