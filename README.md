@@ -51,22 +51,31 @@
   </a>
 </p>
 
-<h2 "💾 Fundamentals and Databases:" />
+💾 Fundamentals and Databases:
 
-  <img src="https://skillicons.dev/icons?i=Terminal,Ruby,SQL,vscode&perline=14" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=Terminal,Ruby,SQL,vscode&perline=14" />
+   </a>
+   
+ 📋 Front-end & Web Design:
 
-<h2 "📋 Front-end & Web Design:" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=CSS3,HTML5,JavaScript,Webpack&perline=14" />
+   </a>
+   
+ ☁️ Deploy:
 
-  <img src="https://skillicons.dev/icons?i=CSS3,HTML5,JavaScript,Webpack&perline=14" />
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=Heroku,Ruby on Rails&perline=14" />
+  </a>
+  
+ ♾️ Development Workflow:
 
-<h2 "☁️ Deploy:" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?iGit,GitHub,Figma&perline=14" />
+   </a>
 
-   <img src="https://skillicons.dev/icons?i=Heroku,Ruby on Rails&perline=14" />
-
-<h2 "♾️ Development Workflow:" />
-
-  <img src="https://skillicons.dev/icons?iGit,GitHub,Figma&perline=14" />
-
+   
 Credit: 1010nishant
 
 Last Edited on: 23/6/2023
