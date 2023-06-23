@@ -60,7 +60,7 @@
  📋 Front-end & Web Design:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,sass,html,nodejs,JavaScript,Bootstrap&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,sass,html,nodejs,js,bootstrap&perline=14" />
    </a>
    
  ☁️ Deploy:
@@ -72,7 +72,7 @@
  ♾️ Development Workflow:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,github&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,docker,figma,github&perline=14" />
    </a>
 
    
