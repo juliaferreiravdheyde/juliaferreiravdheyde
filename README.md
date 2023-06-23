@@ -54,19 +54,19 @@
 💾 Fundamentals and Databases:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,terminal,SQL,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ruby,postgres,vscode&perline=14" />
    </a>
    
  📋 Front-end & Web Design:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,node.js,JavaScript,Bootstrap&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,html,nodejs,JavaScript,Bootstrap&perline=14" />
    </a>
    
  ☁️ Deploy:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby on rails,heroku&perline=14" />
+    <img src="https://skillicons.dev/icons?i=rails,heroku&perline=14" />
   </a>
   
  ♾️ Development Workflow:
