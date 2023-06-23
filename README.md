@@ -47,7 +47,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,docker,figma,github,html,nodejs,Ruby,Ruby on Rails,JavaScript,SQL,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,docker,figma,github,html,nodejs,Ruby,Ruby on Rails,JavaScript,SQL,vscode,heroku&perline=14" />
   </a>
 </p>
 
@@ -60,23 +60,20 @@
  📋 Front-end & Web Design:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,JavaScript&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,html,nodejs,JavaScript,Bootstrap&perline=14" />
    </a>
    
  ☁️ Deploy:
 
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=heroku,Ruby on Rails&perline=14" />
+    <img src="https://skillicons.dev/icons?i=Ruby on Rails,heroku&perline=14" />
   </a>
   
  ♾️ Development Workflow:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?git,GitHub,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,figma,github&perline=14" />
    </a>
 
    
-Credit: 1010nishant
-
-Last Edited on: 23/6/2023
 
