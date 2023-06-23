@@ -62,7 +62,7 @@
  ☁️ Deploy:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rails,heroku&perline=14" />
+    <img src="https://skillicons.dev/icons?i=rails,heroku,docker&perline=14" />
   </a>
   
  ♾️ Development Workflow:
