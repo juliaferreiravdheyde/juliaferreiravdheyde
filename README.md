@@ -68,7 +68,7 @@
  ♾️ Development Workflow:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,figma,google.collab,github&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,docker,figma,github&perline=14" />
    </a>
 
    
