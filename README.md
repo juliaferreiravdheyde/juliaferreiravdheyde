@@ -50,7 +50,7 @@
 💾 Fundamentals and Databases:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,postgres,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ruby,py,postgres,vscode&perline=14" />
    </a>
    
  📋 Front-end & Web Design:
