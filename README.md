@@ -28,7 +28,7 @@
 <!--Intro start-->
  About Me
 
-🔭 I’m looking for Full Stack Web Development opportunities.
+🔭 I’m a Software Developer - Oracle PL/SQL | Javascript | #orclAPEX | Java | Ruby on Rails.
 
 👯 I’m looking to collaborate on Web Development.
 
@@ -50,7 +50,7 @@
 💾 Fundamentals and Databases:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,py,postgres,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ruby,py,java,postgres,postman,vscode&perline=14" />
    </a>
    
  📋 Front-end & Web Design:
