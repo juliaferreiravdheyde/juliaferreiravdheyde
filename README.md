@@ -30,10 +30,6 @@
 
 🔭 I’m a Software Developer - Oracle PL/SQL | Javascript | #orclAPEX | C# | Ruby on Rails.
 
-👯 I’m looking to collaborate on Web Development.
-
-👨‍💻 You can access all of my open-source projects on GitHub
-
 💬 Ask me about anything, I am happy to help!
 
 <!--Intro end-->
