@@ -28,7 +28,7 @@
 <!--Intro start-->
  About Me
 
-🔭 I’m a Software Developer - Oracle PL/SQL | Javascript | #orclAPEX | Java | Ruby on Rails.
+🔭 I’m a Software Developer - Oracle PL/SQL | Javascript | #orclAPEX | C# | Ruby on Rails.
 
 👯 I’m looking to collaborate on Web Development.
 
@@ -38,14 +38,13 @@
 
 <!--Intro end-->
 
-<!--h1 without bottom border-->
+<!--h1 without bottom border
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
-
 
 💾 Fundamentals and Databases:
 
@@ -70,6 +69,4 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,figma,github&perline=14" />
    </a>
-
-   
 
