@@ -71,4 +71,4 @@
 
 📫 How to reach me:
 - Email: juliavdheyde@icloud.com
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/juliadfvonderheyde)
+- LinkedIn: (www.linkedin.com/in/juliadfvonderheyde)
