@@ -67,3 +67,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,figma,github&perline=14" />
    </a>
+
+
+📫 How to reach me:
+- Email: juliavdheyde@icloud.com
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/juliadfvonderheyde)
