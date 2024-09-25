@@ -45,7 +45,7 @@
 💾 Fundamentals and Databases:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,py,java,postgres,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ruby,py,java,postgres,postman,vscode,visualStudio&perline=14" />
    </a>
    
  📋 Front-end & Web Design:
