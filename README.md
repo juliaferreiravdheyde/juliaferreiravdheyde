@@ -24,9 +24,16 @@
 <!--Intro start-->
  About Me
 
-🔭 I’m a Software Developer - Oracle PL/SQL | Javascript | #orclAPEX | C# | Ruby on Rails.
+🔭 I’m a Software Developer specializing in Oracle PL/SQL, JavaScript, and C#, with experience in building applications using Oracle APEX and Ruby on Rails. I enjoy problem-solving and creating efficient solutions through code.  
 
-💬 Ask me about anything, I am happy to help!
+🚀 Currently, I'm focused on expanding my knowledge of C# and .NET development, working with both back-end and front-end technologies to deliver seamless user experiences.  
+
+
+
+🌱 Current Projects:
+- Developing a Bakery Management System in C# with a focus on OOP principles.
+- Creating a web application to help users memorize vocabulary when learning new languages. Built using JavaScript, Python, and SQL, this project will be my Final Project for the CS50 course from Harvard. 
+
 
 <!--Intro end-->
 
